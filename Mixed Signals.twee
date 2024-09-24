@@ -1,0 +1,1250 @@
+:: StoryTitle
+Mixed Signals
+
+
+:: StoryData
+{
+  "ifid": "E609F173-61C4-47EB-B74D-0B882431A634",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Title Page",
+  "zoom": 1
+}
+
+
+:: A quick dance {"position":"750,1050","size":"100,100"}
+YOU: Oo! Do you wanna dance to this song real quick?
+
+TAHLIA: Oh, uh, sure... I don't really know how to dance.
+
+YOU: Neither do I, but who cares?! The fun thing about being in crowded bars is that it's so loud and there are so many people that nobody is really watching you.
+
+TAHLIA: Not sure I believe that.
+
+YOU: C'mon, let's go!
+
+You make your way to [[the dance floor]] and Tahlia quickly follows close behind.
+
+
+:: An excuse {"position":"1700,1550","size":"100,100"}
+YOU: ... You- You're just not my type.
+
+TAHLIA: Oh...
+
+YOU: But I would still love to be fr--
+
+TAHLIA: I really need to go.
+
+Tahlia gets up and walks away from the table. You get up to try and chase her down. Tahlia walks fast towards the exit. You try to keep up.
+
+YOU: Tahlia!
+
+Tahlia blasts through the exit. You follow...
+
+YOU: Look, I really don't mean to make you feel bad or offend you.
+
+TAHLIA: You are a //really// nice guy, but you just have to understand that hearing you say that I'm not your type is just too much for me. It's like the... fucking story of my life!
+
+Tahlia starts to cry.
+
+TAHLIA: And I really don't want to be mad at you because... it's not your fault, this is... //not// your fault. But... I just can't be around you right now.
+
+YOU: Tahlia, wait--
+
+TAHLIA: Bye.
+
+Tahlia walks off.
+
+You stand there in the middle of the sidewalk, alone... The autumn air is cold.
+
+THE END.
+
+
+:: Another drink {"position":"525,300","size":"100,100"}
+TAHLIA: SURE! YOU LEAD THE CHARGE!
+
+You lead the way, pushing through people on your way to the bar.
+
+YOU: (to one person) Sorry! (to another) Excuse me! (and another) Sorry, my bad!
+
+You and Tahlia finally get close to the bar. The noise level has dropped a bit, but you see that there's a long line...
+
+YOU: Oh jesus. This is gonna take a while. I hope that's okay.
+
+TAHLIA: Oh yeah. Totally!... You're so polite.
+
+YOU: Well, I just don't want you to be bored.
+
+TAHLIA: (giggling) You don't have to worry about that. But no, I meant when you were making your way through the crowd.
+
+YOU: Oh! I just don't wanna get punched.
+
+TAHLIA: (more giggling) That's fair.
+
+YOU: There's a lot of football players in here.
+
+TAHLIA: Do you know the football players?
+
+YOU: You mean personally? (chuckles) No.
+
+TAHLIA: Why is that so absurd?
+
+YOU: I wouldn't get along with the football players.
+
+TAHLIA: Didn't you play football in high school?
+
+YOU: Yeah, and I didn't get along with my teammates.
+
+TAHLIA: Why?
+
+YOU: They were... different from me.
+
+TAHLIA: Different how?
+
+YOU: ... Just different. Uh- we didn't have things in common, y'know?
+
+TAHLIA: Except football.
+
+YOU: Even that we didn't really have in common.
+
+TAHLIA: You didn't like playing football?
+
+YOU: ... I don't know.
+
+TAHLIA: Sorry, I shouldn't be interrogating you. It's really rude.
+
+YOU: No, you're fine. Really. These are normal questions. I'm being weird...
+
+You assess the line...
+
+YOU: I don't think it's moved at all! Do you want to just dance maybe?
+
+TAHLIA: Well... I don't really know how to dance. But it's up to you, honestly. I'm fine either way. I just wanna hang out with you.
+
+//How do you respond?//
+
+[[I don't really know how to dance either, but let's do it!|Dance]]
+
+[[Hmm... let's stick it out. I think the people in the front of the line just couldn't make up their minds.|Stick around]]
+
+
+:: Be intense! {"position":"1125,1100","size":"100,100"}
+YOU: WHAT THE FUCK IS YOUR PROBLEM?! WHY CAN'T I JUST MEET A NORMAL FUCKING PERSON AND MAKE A NORMAL FUCKING FRIEND IN THIS GOD FOR SAKEN TOWN?!?!
+
+Tahlia is STUNNED.
+
+The Bartender comes STORMING over.
+
+BARTENDER: BOTH OF YOU! GET THE FUCK OUTTA MY BAR!
+
+You and Tahlia are escorted out of the bar by the bartender.
+
+BARTENDER: Now I know BOTH of your ugly faces! Don't bother coming back!!
+
+...
+
+Tahlia starts to cry.
+
+//What will you do?//
+
+[[Comfort her.]]
+
+[[Be spiteful.]]
+
+
+
+:: Be intense! Version 2 {"position":"1300,1125","size":"100,100"}
+YOU: WHAT THE FUCK IS YOUR PROBLEM?! WHY CAN'T I JUST MEET A NORMAL FUCKING PERSON AND MAKE A NORMAL FUCKING FRIEND IN THIS GOD FOR SAKEN TOWN?!?!
+
+Tahlia is STUNNED.
+
+The Bartender comes STORMING over.
+
+BARTENDER: BOTH OF YOU! GET THE FUCK OUTTA MY BAR!
+
+You and Tahlia are escorted out of the bar by the bartender.
+
+BARTENDER: Now I know BOTH of your ugly faces! Don't bother coming back!!
+
+...
+
+Tahlia starts to cry.
+
+//What will you do?//
+
+[[Comfort her.]]
+
+[[Be spiteful.|Be spiteful Version 2]]
+
+
+:: Be spiteful Version 2 {"position":"1425,1550","size":"100,100"}
+YOU: You humiliated both of us in there! And I really fucking liked that bar!
+
+TAHLIA: You just can't own up to anything, can you?! I mean, how unaware are you? You're a man and I'm a woman. We barely know each other and you bought me a drink! Come on, that is TEXT BOOK!
+
+YOU: Okay, FINE! Whatever. But how about you take a step BACK out of your own little world for a second and see things from my persepctive, because from my perspective, it seems like I'm being punished for being gay and wanting to make a new friend.
+
+TAHLIA: All I'm asking is for a BIT more awareness!
+
+YOU: I shouldn't have to police every single thing that I do or word that I say just wondering if one extra moment of silence, one extra smile, one extra act of selflessness will lead YOU to believe that I want to get between your LEGS!!!
+
+...
+
+TAHLIA: You. Are. A. DICK!! A selfish asshole! Good luck getting either of those things from anyone with your nasty personality!
+
+Tahlia storms off!
+
+YOU: (yelling out to her) And good luck getting either of those things from anyone with your nasty vag- okay, maybe that's too far.
+
+THE END.
+
+
+:: Be spiteful. {"position":"1300,1550","size":"100,100"}
+YOU: You humiliated both of us in there! And I really fucking liked that bar!
+
+TAHLIA: You just can't own up to anything, can you?! I mean, how unaware are you? I barely know anything about you. You're a man, I'm a woman and you were doing these gentlemenly things. Offering me sip of your drink is flirty. Buying me a drink?!?! Come on, that is TEXT BOOK!
+
+YOU: Okay, FINE! Whatever. But how about you take a step BACK out of your own little world for a second and see things from my persepctive, because from my perspective, it seems like I'm being punished for being gay and wanting to make a new friend.
+
+TAHLIA: All I'm asking is for a BIT more awareness!
+
+YOU: I shouldn't have to police every single thing that I do or word that I say just wondering if one extra moment of silence, one extra smile, one extra act of selflessness will lead YOU to believe that I want to get between your LEGS!!!
+
+...
+
+TAHLIA: You. Are. A. DICK!! A selfish asshole! Good luck getting either of those things from anyone with your nasty personality!
+
+Tahlia storms off!
+
+YOU: (yelling out to her) And good luck getting either of those things from anyone with your nasty vag- okay, maybe that's too far.
+
+THE END.
+
+
+:: Buy Tahlia's drink {"position":"750,575","size":"100,100"}
+YOU: (to the bartender) You can add her's to my tab.
+
+TAHLIA: (blushing) Awww, you don't have to do that!
+
+YOU: No sweat!
+
+TAHLIA: Well, that's very nice of you.
+
+BARTENDER: (slightly impatient) What would you like?
+
+TAHLIA: Uhhh, could I just get a... I'll just do a screwdriver.
+
+YOU: Oo!
+
+TAHLIA: (playful) Shut up!
+
+YOU: What?!
+
+The bartender breaks off to make the drink.
+
+TAHLIA: I know it's a little... basic.
+
+YOU: It's not basic! I'd argue a vodka-cran is more basic. I don't hear a lot of people ordering screwdrivers!
+
+TAHLIA: Yeah, so it's weird.
+
+YOU: It's not weird.
+
+TAHLIA: You're implying it's weird.
+
+YOU: No, it's honestly //not// weird. I think it's cute.
+
+... A long beat as Tahlia takes that in. She blushes...
+Tahlia seems shy now...
+
+The bartender gives you your gin and tonic.
+
+YOU: These are pretty good.
+
+TAHLIA: Yeah, I bet they are.
+
+//How do you respond?//
+
+[[Do you wanna try a sip?|Offer a sip]]
+[[So do you want to sit down or...?|Don't offer a sip]]
+
+
+:: Chase after Tahlia {"position":"775,1200","size":"100,100"}
+YOU: Umm- Uh... Hey, there, Marcus- sorry, but I have to go chase down my friend.
+
+MARCUS: Oh, okay bro--
+
+You turn around and dart towards the exit to catch up with Tahlia. You exit the bar.
+
+Tahlia is speed walking down the sidewalk.
+
+YOU: Tahlia, WAIT!!
+
+She keeps going...
+
+YOU: I fucked up! Just give me a chance to explain.
+
+Tahlia stops. She turns around... You walk towards her closing the gap.
+
+YOU: Look, yes you're pretty. You're very pretty! You've got the thickest hair, the nicest smile and, frankly, that dress is lucky to have you in it.
+
+Tahlia blushes.
+
+YOU: But...
+
+TAHLIA: BUT?!
+
+YOU: Hold on, let me finish my sentence. But... I...
+
+Tahlia looks at you, waiting...
+
+//What will you decide?//
+
+[[Tell the truth]]
+
+[[Make an excuse]]
+
+
+
+
+:: Comfort her. {"position":"1025,1550","size":"100,100"}
+YOU: Look, I didn't respond the right way, I--
+
+TAHLIA: This has happened to me so many times. So many fucking times... I think I'm cursed.
+
+...
+
+YOU: Okay, look, I'm gonna say something and it's not at all meant to diminish how you're feeling, but... I can relate.
+
+Tahlia softens a bit.
+
+YOU: Do you know how many straight guys I've had crushes on...? A lot. Like, A LOT. In fact, I'm attracted to straight guys. My type is: Straight.
+
+Tahlia laughs. You laugh at yourself.
+
+YOU: That's //another// reason I didn't like football... I had crushes on a couple of my teammates but I knew it could never be reciprocated because they would just talk about tits and pussy and all this fucking sex they were having with all these different girls in our school... At the time, it didn't seem like I cared too much, but now... looking back on it, that was a pretty fucking shitty situation to be in.
+
+Tahlia looks at you with a painful smile.
+
+TAHLIA: I'm so sorry. I was being so selfish.
+
+YOU: No, you're fine...
+
+...
+
+You both look at each other and laugh.
+
+THE END.
+
+
+:: Dance {"position":"450,600","size":"100,100"}
+YOU: I don't really know how to dance either, but let's do it!
+
+TAHLIA: (clearly hesitant) Okay...
+
+...
+
+YOU: The key is to not overthink it. Just relax, let down your guard, and let your body do what it wants to do.
+
+TAHLIA: (chuckles) That seems a little easier said than done.
+
+YOU: The nice thing about being in crowded bars is that it's so loud and there are so many people that nobody is really watching you. It's as if they're not even there and you're not even there. It's like each person is in their own little world.
+
+TAHLIA: Not sure I believe that.
+
+YOU: C'mon, let's go! You'll see what I mean.
+
+You make your way to [[the dance floor]] and Tahlia quickly follows close behind.
+
+
+
+
+:: Don't offer a sip {"position":"950,750","size":"100,100"}
+YOU: So do you wanna sit down or...?
+
+TAHLIA: We can sit if you want to sit.
+
+YOU: Do you wanna sit?
+
+TAHLIA: I wouldn't mind sitting. It might be nice to go somewhere quieter, more private.
+
+The jazz band in the back of the bar starts playing a really //groovy// song. The //grooviest// one yet.
+
+//How do you respond?//
+
+[[Yeah, you're right. Somewere quieter would be nice|Privacy Version 2]]
+
+[[Oo! Do you wanna dance to this song real quick?|A quick dance]]
+
+
+
+
+:: Don't offer a sip Version 2 {"position":"1125,750","size":"100,100"}
+YOU: So do you wanna sit down or...?
+
+TAHLIA: Uh... sure. Yeah.
+
+YOU: You sure?
+
+TAHLIA: ... Yeah. Whatever you want to do.
+
+The jazz band in the back of the bar starts playing a really //groovy// song. The //grooviest// one yet.
+
+//How do you respond?//
+
+[[Yeah, let's sit down.|Privacy Version 3]]
+
+[[Oo! Do you wanna dance to this song real quick?|A quick dance]]
+
+
+
+:: Give him your breath {"position":"1025,1325","size":"100,100"}
+You breathe in... and then out... right into Marcus' face.
+
+He sniffs...
+
+MARCUS: Mmmmm... whiskey!
+
+...
+
+YOU: Uhhh... yeah! Dang, that's impressive. I'm impressed.
+
+MARCUS: I know, dude! People are always surprised. It's like a sixth sense.
+
+YOU: Yeah... yeah... That's a good movie, by the--
+
+MARCUS: Okay, well it's been fun catching up, dude. So great to see you! You were always such a stand-up guy on the football field. It's great to see that hasn't changed. See you around, my man!
+
+YOU: Yep! See you--
+
+Marcus walks off.
+
+YOU: --around...
+
+For a moment, you watch Marcus walk off and rejoin a group of guys. It makes you feel a bit hollow on the inside.
+
+Then you turn around and walk off the dance floor. [[You exit the bar...]] 
+
+
+:: Kiss Marcus {"position":"900,1325","size":"100,100"}
+You close your eyes, and close the gap...
+
+KISS!
+
+MARCUS: What the--
+
+Marcus immediately breaks away from it.
+
+MARCUS: JESUS CHRIST! What the fuck, bro?!
+
+YOU: Uhhh--
+
+MARCUS: What was that, bro? A fucking sick joke?
+
+YOU: No.
+
+MARCUS: Did someone dare you to do that or somethin'?
+
+YOU: No, no one dared me.
+
+MARCUS: ... Are you a homo?
+
+YOU: (dissapointed laughter) ... Well... at least you didn't say the //other// word.
+
+You turn away from Marcus and walk off the dance floor. [[You exit the bar...]]
+
+
+:: Let Tahlia pay {"position":"925,550","size":"100,100"}
+TAHLIA: Uhhh... I'll just do a water.
+
+BARTENDER: Okay.
+
+YOU: Are you sure?
+
+TAHLIA: Yeah, the cocktails add up. I'm trying to be friendlier to my wallet.
+
+YOU: You could just get a beer.
+
+TAHLIA: Nah, I don't like beer.
+
+YOU: Oh, wow!... What do you not like about it?
+
+TAHLIA: I honestly think it tastes like shit.
+
+YOU: Like shit?!
+
+TAHLIA: Well, maybe //shit// is a little dramatic. But it tastes like I'm drinking a meal. And I don't want to drink a meal. If I'm drinking a drink I want it to be like I'm drinking a drink.
+
+BARTENDER: Here ya go.
+
+TAHLIA: There's your drink!
+
+The Bartender gives you your gin and tonic. You take a sip
+
+YOU: These are pretty good.
+
+TAHLIA: I bet they are.
+
+//How do you respond?//
+
+[[Do you wanna try a sip?|Offer a sip]]
+
+[[So do you wanna sit down or...?|Don't offer a sip Version 2]]
+
+
+:: Make an excuse {"position":"875,1550","size":"100,100"}
+YOU: Look, I've... just been really stressed lately. I'm writing this really emotional story for my Advanced Fiction Workshop class and I don't even know if it's any good and... I've just been in my head about it all...
+
+TAHLIA: Oh my gosh... No, //I'm// sorry. I mean, of course. We're like a month and a half into the semester and mid-terms are coming up. Ugh. Sometimes I just get really caught up in my own emotions and I don't consider what other people might be going through.
+
+YOU: No worries at all. It's fine.
+
+TAHLIA: It's //not// fine, but...
+
+Tahlia grabs your hand.
+
+TAHLIA: I just want you to know that I am here for you. And if you're ever super stressed or whatever, you can talk to me. I'll listen...
+
+Tahlia smiles at you affectionately.
+
+YOU: Uh- thanks, that's very, uh... very sweet of you.
+
+TAHLIA: Alright, should we rejoin the party?!?! I'm ready to DANCE!
+
+YOU: (a little hesitant) Uh, yeah. Sure...
+
+Tahlia dances her way back to the entrance of the bar.
+
+You close your eyes, and take a deep breath... You follow her in.
+
+THE END.
+
+
+:: Offer a sip {"position":"700,775","size":"100,100"}
+YOU: Do you wanna try a sip?
+
+TAHLIA: Uh, yeah! Sure!
+
+Tahlia takes a sip of your drink.
+
+TAHLIA: Oh wow! That's--
+
+YOU: Too strong?
+
+TAHLIA: Well...
+
+BARTENDER: Is there a problem?
+
+The bartender places Tahlia's screwdriver in front of her.
+
+An awkard beat of silence...
+
+YOU: No, no problem.
+
+...
+
+TAHLIA: Thank you!!
+
+Tahlia takes her drink and they quickly move away from the bar, chuckling as they go.
+
+TAHLIA: Omg! Do you think he heard us?!
+
+YOU: Seemed like it!
+
+TAHLIA: Hey, it looks like there's an empty table over there in the corner. Let's go! It looks more private!
+
+Tahlia immediately heads in that direction.
+
+YOU: Oh- Okay...
+
+You [[follow her...|Privacy]]
+
+
+:: Opening {"position":"275,125","size":"100,100"}
+It's loud... busy... People yelling over each other. An up-tempo jazz band plays hard in the back of the bar. You see heads bobbing up and down near the stage. People must be dancing. You wonder if anyone is dancing alone, or begging to be danced //with//?
+
+A man walks into the bar. He looks about your age. You take note of the way he's walking: with confidence, like he's been here before. He's got swagger. You wonder if he's with anybody else. Why is he here? Where is he going?
+
+Then, a young woman runs up behind him and kisses him on the cheek. He turns around and greets her with a big sloppy kiss on the mouth.
+
+The bar feels hot and stuffy. You wipe some sweat off your forehead.
+
+You look down at your glass of gin and tonic. The ice is half-melted. The drink is practically ruined.
+
+Tahlia taps you on the shoulder.
+
+TAHLIA: (yelling over all the noise) Are you having fun?
+
+YOU: They could crank the AC a bit more, but yeah. Are you?
+
+TAHLIA: Yeah, it's kind of a lot, but in a good way, y' know?
+
+YOU: Yeah, I know what you mean.
+
+...
+
+The bar seems to be getting even louder.
+
+TAHLIA: This bar is so old, it might not even have AC.
+
+You smile at Tahlia as though you heard what she said. You didn't.
+
+...
+
+TAHLIA: So, how's your semester been?
+
+Again, you just smile.
+
+TAHLIA: ... Uh- no, that was a question.
+
+YOU: What?!
+
+TAHLIA: HOW'S YOUR SEMESTER BEEN?!
+
+YOU: SORRY, IT'S SO LOUD!
+
+TAHLIA: I KNOW!
+
+...
+
+You look down at your drink.
+
+YOU: DO YOU WANNA GRAB [[ANOTHER DRINK|Another drink]]? MINE'S PRACTICALLY WATER AT THIS POINT.
+
+
+:: Privacy {"position":"950,950","size":"100,100"}
+You and Tahlia sit down at the corner table.
+
+YOU: This is ni- oh wow! I think I forgot what it was like to not have to yell!
+
+TAHLIA: I know, right?! This is so much better... So if you don't enjoy playing football then what //do// you like to do?
+
+YOU: Uh, great question! Well, I really like to write.
+
+TAHLIA: Oh, right- yeah! You're studying creative writing, right?
+
+YOU: Yes--
+
+TAHLIA: I remember you told me that. Sorry for forgetting.
+
+YOU: It's all good.
+
+...
+
+TAHLIA: I just want to say how good of a time I'm having with you. Like, it just feels so natural with you. Like I don't have to try too hard to be a certain way. Every time I think I said the wrong thing, you don't seem bothered. That's nice. Really nice.
+
+YOU: ... Cool.
+
+TAHLIA: Yeah, so... I just wanted to tell you that... Sorry, I'm being awkward now.
+
+Tahlia takes a sip of her drink.
+
+YOU: No, you're fine.
+
+TAHLIA: See, there you go again. I could say anything! I could tell you I'm a serial killer and you'd be like "you're fine".
+
+You are visibly uncomfortable.
+
+TAHLIA: Oh my god... Oh my god, why the fuck did I just say that. Oh my god, I'm crazy-
+
+YOU: Tahlia, you're fine--
+
+TAHLIA: No, I'm not fine this time. Now you think I'm a serial killer.
+
+YOU: No, obviously you're not a serial killer, I know you're not a serial killer--
+
+TAHLIA: You're just saying that, you think I'm weird now--
+
+YOU: No.
+
+TAHLIA: Yes--
+
+YOU: No--
+
+TAHLIA: YES!
+
+YOU: NO!
+
+TAHLIA: NO!!
+
+TAHLIA: YES YOU DO--
+
+YOU: TAHLIA, I'M GAY!
+
+...
+...
+...
+
+YOU: Tahlia...?
+
+TAHLIA: You're what?
+
+YOU: I'm... gay, Tahlia. I like guys.
+
+TAHLIA: I know what "gay" means, I don't need you to explain to me what "gay" means.
+
+YOU: Are you... like, okay with that?
+
+TAHLIA: No!
+
+...
+
+YOU: ... You're not?
+
+TAHLIA: You... fucking... led me on! You led me on!
+
+YOU: Wait, what?!
+
+TAHLIA: Of course, I'm okay with the idea of you being gay. I'm not fucking homophobic but you fucking led me on!
+
+YOU: What do you mean?
+
+TAHLIA: Buying me a drink! //Sharing// your drink with me--
+
+YOU: I just offered you a sip!
+
+TAHLIA: DON'T GASLIGHT ME!
+
+You and Tahlia's arguement starts to draw attention.
+
+YOU: (hushed) Look, okay, I'm sorry, I'm sorry. I really am--
+
+TAHLIA: You're just saying that. You don't want me to make a scene, well guess what...
+
+Tahlia stands up.
+
+TAHLIA: I'M MAKING A FUCKING SCENE NOW. ARE YOU HAPPY--
+
+//What will you do?//
+
+[[Try to reason with her.|Reason with her]]
+
+[[Match Tahlia's intensity.|Be intense!]]
+
+
+
+
+:: Privacy Version 2 {"position":"1075,900","size":"100,100"}
+YOU: Yeah, you're right. Somewere quieter would be nice.
+
+TAHLIA: Cool!
+
+You and Tahlia make your way to the corner table. You sit down.
+
+YOU: This is ni- oh wow! I think I forgot what it was like to not have to yell!
+
+TAHLIA: I know, right?! This is so much better... So if you don't enjoy playing football then what //do// you like to do?
+
+YOU: Uh, great question! Well, I really like to write.
+
+TAHLIA: Oh, right- yeah! You're studying creative writing, right?
+
+YOU: Yes--
+
+TAHLIA: I remember you told me that. Sorry for forgetting.
+
+YOU: It's all good.
+
+...
+
+TAHLIA: I just want to say how good of a time I'm having with you. Like, it just feels so natural with you. Like I don't have to try too hard to be a certain way. Every time I think I said the wrong thing, you don't seem bothered. That's nice. Really nice.
+
+YOU: ... Cool.
+
+TAHLIA: Yeah, so... I just wanted to tell you that... Sorry, I'm being awkward now.
+
+Tahlia takes a sip of her drink.
+
+YOU: No, you're fine.
+
+TAHLIA: See, there you go again. I could say anything! I could tell you I'm a serial killer and you'd be like "you're fine".
+
+You are visibly uncomfortable.
+
+TAHLIA: Oh my god... Oh my god, why the fuck did I just say that. Oh my god, I'm crazy-
+
+YOU: Tahlia, you're fine--
+
+TAHLIA: No, I'm not fine this time. Now you think I'm a serial killer.
+
+YOU: No, obviously you're not a serial killer, I know you're not a serial killer--
+
+TAHLIA: You're just saying that, you think I'm weird now--
+
+YOU: No.
+
+TAHLIA: Yes--
+
+YOU: No--
+
+TAHLIA: YES!
+
+YOU: NO!
+
+TAHLIA: NO!!
+
+TAHLIA: YES YOU DO--
+
+YOU: TAHLIA, I'M GAY!
+
+...
+...
+...
+
+YOU: Tahlia...?
+
+TAHLIA: You're what?
+
+YOU: I'm... gay, Tahlia. I like guys.
+
+TAHLIA: I know what "gay" means, I don't need you to explain to me what "gay" means.
+
+YOU: Are you... like, okay with that?
+
+TAHLIA: No!
+
+...
+
+YOU: ... You're not?
+
+TAHLIA: You... fucking... led me on! You led me on!
+
+YOU: Wait, what?!
+
+TAHLIA: Of course, I'm okay with the idea of you being gay. I'm not fucking homophobic but you fucking led me on!
+
+YOU: What do you mean?
+
+TAHLIA: Buying me a drink!
+
+YOU: I was just being polite!
+
+TAHLIA: Guys buy girls drinks when they're trying to HIT ON THEM!
+
+You and Tahlia's arguement starts to draw attention.
+
+YOU: (hushed) Look, okay, I'm sorry, I'm sorry. I really am--
+
+TAHLIA: You're just saying that. You don't want me to make a scene, well guess what...
+
+Tahlia stands up.
+
+TAHLIA: I'M MAKING A FUCKING SCENE NOW. ARE YOU HAPPY--
+
+//What will you do?//
+
+[[Try to reason with her.|Reason with her]]
+
+[[Match Tahlia's intensity.|Be intense! Version 2]]
+
+
+
+:: Privacy Version 3 {"position":"1250,875","size":"100,100"}
+YOU: Yeah, let's sit down. It's looks like there's a table over there in the corner.
+
+You and Tahlia make your way to a corner table.
+
+YOU: This is ni- oh wow! I think I forgot what it was like to not have to yell--
+
+TAHLIA: Do you like me?
+
+YOU: ... What?
+
+TAHLIA: ... I'm sorry. Um... I've just been strung along and let down so many times that I need to protect myself. So... are you like... attracted to me or do you just want to be friends or something?
+
+YOU: ... Uhhh... Just friends, if that's okay?
+
+TAHLIA: (chuckles softly to herself) Yeah, I guess.
+
+...
+
+YOU: So what do you think of this--
+
+TAHLIA: Can I ask why?
+
+YOU: ... I...
+
+TAHLIA: Sorry, I know that's an unfair question. Nobody likes to answer that question it's just... after enough rejection you really start to have self-esteem issues.
+
+YOU: Tahlia, honestly...
+
+//How will you respond?//
+
+[[I'm gay (tell the truth)|The truth]]
+
+[[You're just not my type (make an excuse)|An excuse]]
+
+
+:: Reason with her {"position":"600,1550","size":"100,100"}
+YOU: I don't have a lot of friends, Tahlia!... At least none that I feel super close to. And we get along pretty well. You're right, we haven't known each other very long but I feel a connection to you... We laugh at the same things, we both think that bars are too loud, and hot, and smelly...
+
+Tahlia's face softens a bit. Maybe even a slight smile?
+
+YOU: ... and, I want someone in my life that I can just be myself with, who I can do things with. I don't have a lot in common with the friends that I //do// have.
+
+Tahlia sits down, she takes that in...
+
+TAHLIA: I get it...
+
+YOU: Really?
+
+TAHLIA: I feel lonely too sometimes... I tell myself that I don't need more friends, what I need is someone to cuddle with me and kiss me and take me to the movies and tell me they love me--
+
+YOU: I could do half of those things.
+
+Tahlia chuckles.
+
+TAHLIA: I'm really sorry... I'm sorry for yelling at you, and for acting crazy.
+
+YOU: We all act fucking crazy sometimes. We're human beings. None of us know what we're doing.
+
+...
+
+TAHLIA: Thanks for feeling like you could come out to me, even though you don't know me very well. That was brave and it... it really means a lot.
+
+You smile.
+
+YOU: Friends?
+
+TAHLIA: (with a smile) Definitely.
+
+The jazz band starts playing a really //groovy// song.
+
+You both look at the dance floor and people are going wild!
+
+TAHLIA: Do you wanna dance...? Platonically, of course.
+
+YOU: I would love that.
+
+THE END.
+
+
+:: Stick around {"position":"850,400","size":"100,100"}
+YOU: Hmm... let's stick it out. I think the people in the front of the line just couldn't make up their minds.
+
+TAHLIA: (laughing) Love the optimism!
+
+You smirk.
+
+TAHLIA: I really am sorry about prying. I hate when people do that to me.
+
+YOU: You weren't prying! You were asking normal questions that I was not answering normally.
+
+At this point, you and Tahlia's ears have adjusted to the noise in the bar. It doesn't even feel like you're talking that loud anymore.
+
+TAHLIA: I can relate to not enjoying a sport. I really started to hate soccer. Our coach would always yell at us when we would do something wrong. Like scream at us! Like we just committed a fucking crime or something. I would always think to myself, "It's just a fucking game! Calm down!"
+
+YOU: I know //exactly// what you mean.
+
+TAHLIA: I'm sure it was worse in football.
+
+YOU: Well, I've never played soccer so I can't say for certain, but yeah, it was pretty bad.
+
+TAHLIA: Is //that// why you didn't like it? You don't have to answer that if you don't want to.
+
+YOU: No, it's fine. Yes, that was certainly one of the reasons.
+
+TAHLIA: And you couldn't relate to any of your teammates. I'm assuming you weren't really friends with them?
+
+YOU: Not really, no.
+
+TAHLIA: That sucks. At least when I played soccer I felt like I was practicing with my //friends//. But if you don't really see them as friends then I imagine it just feels like--
+
+TAHLIA: An obligation.
+
+YOU: (in unison) A job.
+
+YOU: (soft chuckle) That too.
+
+...
+
+TAHLIA: It looks like we're up next!
+
+Finally, you and Tahlia get to the front of the line...
+
+BARTENDER: Alright, and what can I get for you?
+
+YOU: Can I just get another gin and tonic?
+
+BARTENDER: Sure. A double or a single?
+
+YOU: Just a single please.
+
+BARTENDER: You got it. (looking at Tahlia) And for you?
+
+//What do you do?//
+
+[[Buy Tahlia's next drink.|Buy Tahlia's drink]]
+
+[[Let Tahlia pay for her drink.|Let Tahlia pay]]
+
+
+
+:: Talk to Marcus {"position":"900,1200","size":"100,100"}
+YOU: Uh- Umm... It's going good... man. How are you?
+
+MARCUS: I'm doing good. I'm really liking college life already, I'm not gonna lie.
+
+YOU: Yeah, it's- it's great... You like jazz? Sorry, that was really corny.
+
+MARCUS: The Bee Movie! (laughing) Can't fool me, bro.
+
+YOU: Yep, good- good job. You got it. Nailed it. Bingo... Boom! You passed the- the... pop quiz- okay, I'm gonna just stop talking now.
+
+MARCUS: (laughing) You're drunk, aren't you?
+
+YOU: Uhhh, yeah! So fucking wasted dude... like, my BAC is probably like... .1%.
+
+MARCUS: ... I don't know what that means dude but let me smell your breath.
+
+YOU: Really?
+
+MARCUS: Yeah, dude. I'm so good at knowing what someone's been drinking by smelling their breath.
+
+YOU: Okay...
+
+Marcus gets really close to your face. He closes his eyes... You get a tingly feeling in your stomach. You just stand there, staring straight ahead at his face, like you're in a trance.
+
+...
+
+Marcus opens his eyes.
+
+MARCUS: You have to like, breathe out in order for me to be able to smell it.
+
+YOU: Oh! Yeah, sorry.
+
+Marcus closes his eyes again...
+
+//What will you do?//
+
+[[Kiss Marcus]]
+
+[[Give him your breath]]
+
+
+
+
+:: Tell the truth {"position":"725,1550","size":"100,100"}
+YOU: I'm... I'm gay.
+
+TAHLIA: Wh- really?
+
+YOU: Yes, really.
+
+TAHLIA: You're not just saying that?
+
+YOU: I'm not just saying that.
+
+TAHLIA: Because if you're not attracted to me or I'm just not your type--
+
+YOU: I'm not attracted to you and you're not my type, but not because you're not pretty but because--
+
+TAHLIA: You're gay
+
+YOU: (in unison) I'm gay. Yes...
+
+...
+
+TAHLIA: Ughhh. Not again...
+
+YOU: This has happened to you before?
+
+TAHLIA: Yes, this has happened to me before. More than once before. So you can understand why I'm skeptical.
+
+YOU: Yeah, totally fair.
+
+TAHLIA: It's just so fucking hard to find relationships in this fucking society. So many dating apps, so much fakeness, everybody's looking for different things...
+
+YOU: Well, the one benefit to me being gay in this situation is that I can actually say that I know what you're going through.
+
+TAHLIA: Yeah, I guess you have... Dammit, who am I to complain?! I'm sure you've had to deal with this more than me.
+
+YOU: It's not a competition.
+
+TAHLIA: No, it's not. But I was acting selfish. And I'm sorry.
+
+YOU: Apology more than accepted.
+
+You smile. Tahlia smiles back.
+
+TAHLIA: So, should we go back in?
+
+YOU: Actually, speaking of being gay, one of my old football teammates that I had a like MONDO crush on in high school is in there right now and I'd rather not relive all those emotions.
+
+TAHLIA: (chuckling) Fair.
+
+YOU: Let's get the fuck outta here.
+
+TAHLIA: (in unison) Let's get the fuck outta here.
+
+You both laugh.
+
+THE END.
+
+
+:: The truth {"position":"1575,1550","size":"100,100"}
+YOU: ... I'm gay.
+
+...
+
+TAHLIA: Really?
+
+YOU: Yes, I'm serious.
+
+TAHLIA: Wow... uh, well I guess that feels better than the alternative.
+
+YOU: You're very pretty.
+
+TAHLIA: Well, thanks--
+
+YOU: And I would really like to be friends.
+
+TAHLIA: (smiling) Me too.
+
+You smile back.
+
+TAHLIA: I'm glad you don't think I'm ugly.
+
+YOU: (chuckling) Of course not.
+
+TAHLIA: It's still not easy for me to hear that though- I mean, I love that you're gay. I think that's really wonderful, and thanks for telling me by the way. I know it's not easy, especially since you don't know me that well.
+
+YOU: It's always weird when I realize that, somehow, I am more comfortable coming out to people that I barely know than my own family members.
+
+TAHLIA: Ugh, I can only imagine!... But uh... yeah, this isn't the first time this has happened to me. Maybe I'm just attracted to gay guys?
+
+YOU: Well, I'm attracted to straight guys so we can both be single for the rest of our lives together, how does that sound?
+
+You both chuckle.
+
+TAHLIA: That sounds great.
+
+The jazz band starts playing a really //groovy// song. You both look over at the dance floor and people are going wild!
+
+TAHLIA: Shall we dance...? Platonically, of course.
+
+YOU: I would love that.
+
+THE END.
+
+
+:: Title Page {"position":"100,125","size":"100,100"}
+
+
+
+
+
+(align:"=><=")[(text-style:"bold","expand")[Mixed Signals]]
+
+(align:"=><=")[by Nathan Kornick]
+
+
+Welcome to //Mixed Signals//, an interactive story, where you play as an unnamed character. The character is unnamed because the character is YOU! Well, the character isn't //actually// you. This character has their own story, that of which you will uncover! However, as you move through this story, you will be making certain decisions for this character. These decisions will guide the story. So, without any further ado, enjoy!
+
+
+
+(align:"=><=")[(text-style:"bold","italic")[[[Begin|Opening]]]]
+
+
+:: You exit the bar... {"position":"1175,1550","size":"100,100"}
+You walk outside. It's now to the point where it could actually be consisdered cold outside. You regret not bringing an extra layer with you.
+
+YOU: Tahlia!... Tahlia!!...
+
+There's no sign of her.
+
+THE END.
+
+
+:: the dance floor {"position":"625,1400","size":"100,100"}
+Near the stage, everybody is moving and grooving. The piano and the saxophone work together in perfect harmony on stage. It doesn't take long for you to match the energy of all the other dancers. Tahlia, on the other hand, is still warming up to it.
+
+Tahlia notices how loose and care free you are. She starts to relax a little bit. Before long, she is moving her shoulders...
+
+And now her torso...
+
+We see her hips get into...
+
+Now she's shaking her ass a bit?
+
+The music continues to go wild and you two are having the time of your lives. Tahlia starts to move closer to you.
+
+TAHLIA: Maybe you were right! I don't feel self-consious right now!
+
+YOU: I told you!
+
+Tahlia moves a little bit closer.
+
+TAHLIA: Y'know... you are probably the //only// person on this planet that could get me to dance like this.
+
+YOU: Really?
+
+TAHLIA: Really!
+
+She moves a little closer.
+
+TAHLIA: It feels good to just move your body without caring what other people think!
+
+YOU: I know, right?!?!
+
+She moves even closer.
+
+TAHLIA: I feel so comfortable when I'm around you.
+
+YOU: What did you say?!
+
+She gets right up to your ear.
+
+TAHLIA: I'M COMFORTABLE WITH YOU!
+
+YOU: AH! THANKS. LIKEWISE.
+
+You continue to dance. Tahlia's dancing slows down.
+
+TAHLIA: Do you think I'm pretty?
+
+YOU: Do I think you're tipsy? (laughing) I don't know, you don't seem too bad--
+
+TAHLIA: No, PRETTY!
+
+YOU: PRETTY?
+
+TAHLIA: Yeah.
+
+YOU: Do I think you're pretty?
+
+TAHLIA. Yes...
+
+YOU: ... Why do you ask?
+
+Tahlia stops dancing altogether.
+
+TAHLIA: ... That's a "no", isn't it?
+
+YOU: No! I mean, yes? No. I mean, no. No, it's not a "no."
+
+Tahlia turns around and storms off the dance floor.
+
+YOU: Tahlia! Wait!
+
+MARCUS: (from behind you) Oh my god...
+
+A familiar voice grabs your attention.
+
+You turn around to see Marcus, an old football teammate from high school. You haven't seen him in two years.
+
+MARCUS: It is you! I thought I recognized you. How's it going man?
+
+YOU: Oh wow, uhhhh...
+
+You're taken aback... Your eyes dart towards Tahlia who is marching towards the exit, about to leave the bar.
+
+YOU: Uh- Umm...
+
+Your eyes dart back to Marcus. Maybe it's just the lighting, but his eyes are even bluer than you remember...
+
+//What will you decide?//
+
+[[Chase after Tahlia]]
+
+[[Stay and talk to Marcus|Talk to Marcus]]
